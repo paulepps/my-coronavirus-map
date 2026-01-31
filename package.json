@@ -25,7 +25,7 @@
     "babel-jest": "^26.0.1",
     "babel-preset-gatsby": "^0.4.2",
     "enzyme": "^3.11.0",
-    "eslint": "^7.0.0",
+    "eslint": "^9.26.0",
     "eslint-config-zurgbot": "^0.0.7",
     "eslint-plugin-react": "^7.20.0",
     "eslint-plugin-react-hooks": "^4.0.2",
