@@ -9,7 +9,4 @@
 * [Leaflet](https://leafletjs.com/)
 * [React Leaflet](https://react-leaflet.js.org)
 
-## 🚀 Live Demo
-
-https://paulepps.github.io/my-coronavirus-map/
 
